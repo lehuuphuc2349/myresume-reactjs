@@ -59,6 +59,7 @@ function Navbar() {
                    {button&&<Button buttonStyle="btn--outline">DOWLOAD CV</Button>}
                 </div>
             </nav>    
+            {/* <div className="banner"></div> */}
         </>
     )
 }

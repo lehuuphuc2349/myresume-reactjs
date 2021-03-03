@@ -3,8 +3,8 @@ import './Intro.css'
 function Intro() {
     return (
         <div className='intro'>
+            <div className="banner"></div>
             <div className="intro-container">
-                <img src="src\components\images\banner-cv.jpg" alt=""/>
                 <div className="infomation">
                     <h1>I'm LE HUU PHUC</h1>
                     <p>Hello, I am Student Programming and this is a my self-introduction website</p>
@@ -21,7 +21,7 @@ function Intro() {
                                 <a target='_blank' className='menu-social-links' href="https://twitter.com/StarkLe02469055"><i class="fab fa-twitter"></i></a>
                             </li>
                             <li className="menu-social-items">
-                               <a target='_blank' className='menu-social-links' href=""><i class="fab fa-linkedin"></i></a>
+                               <a target='_blank' className='menu-social-links' href="https://www.linkedin.com/in/l%C3%AA-ph%C3%BAc-497682208/"><i class="fab fa-linkedin"></i></a>
                             </li>
                         </ul>
                     </div>
