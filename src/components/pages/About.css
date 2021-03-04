@@ -9,13 +9,15 @@
 }
 .about-content {
   width: 70%;
-  margin-left: 15rem;
-  margin-top: -7rem;
+  margin-left: 20rem;
+  margin-top: -10rem;
+  align-items: center;
+  justify-content: center;
 }
 .my-img {
   position: relative;
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   border-radius: 100%;
   z-index: 1;
   margin-top: 8rem;

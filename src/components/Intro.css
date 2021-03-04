@@ -1,7 +1,6 @@
 .intro {
-  /* margin-top: -30rem; */
   width: 100%;
-  height: 90vh;
+  height: 100vh;
 }
 .banner {
   background-image: url("./images/banner-cv.jpg");
@@ -54,4 +53,5 @@
 .menu-social-links:hover {
   border: 5px solid #fff;
   transition: all 0.6s ease-out;
+  background-color: #1ebba3;
 }
