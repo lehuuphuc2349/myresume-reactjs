@@ -214,6 +214,7 @@ textarea.input + .shadow-input {
 .contact-form-btn > span {
   color: #fff;
   font-size: 1.2rem;
+  text-shadow: 3px 4px #1ebba3;
 }
 .contact-form-btn i {
   margin-left: 7px;
