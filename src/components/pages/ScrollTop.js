@@ -23,6 +23,7 @@ export default function ScrollToTop() {
       {isVisible && (
         <div onClick={scrollToTop}>
           <img
+            className="scroll-icon"
             src="https://i.postimg.cc/44Ytsk8Z/top-arrow-emoj.png"
             alt="Go to top"
           />
