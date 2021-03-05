@@ -1,16 +1,18 @@
-import React from 'react'
-import '../../App.css';
-import Intro from '../Intro';
-import About from './About';
-import Resume from './Resume';
+import React from "react";
+import "../../App.css";
+import Intro from "../Intro";
+import About from "./About";
+import Contact from "./Contact";
+import Resume from "./Resume";
 function Home() {
-    return (
-        <>
-            <Intro/>            
-            <About/>
-            <Resume/>
-        </>
-    )
+  return (
+    <>
+      <Intro />
+      <About />
+      <Resume />
+      <Contact />
+    </>
+  );
 }
 
-export default Home
+export default Home;

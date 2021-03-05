@@ -22,7 +22,8 @@
   z-index: 1;
   margin-top: 8rem;
 }
-h2 {
+.about-me-text > h2,
+.contact > h2 {
   color: #fff;
   font-size: 2rem;
 }
