@@ -2,7 +2,6 @@ import React from "react";
 import "../../App.css";
 import "./Contact.css";
 import imgContact from "../../resources/images/img-01.png";
-import "../../resources/css/util.css";
 export default function Contact() {
   return (
     <div className="contact-info">
