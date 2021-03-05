@@ -11,7 +11,7 @@ export default function Contact() {
         </div>
 
         <form class="contact-form validate-form">
-          <span class="contact-form-title">Get in touch</span>
+          <span class="contact-form-title">Contact US</span>
           <div
             class="wrap-input validate-input"
             data-validate="Name is required"
