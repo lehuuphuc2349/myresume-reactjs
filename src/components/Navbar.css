@@ -64,11 +64,6 @@
 .menu-icon {
   display: none;
 }
-/* .nav-menu > .nav-items > .nav-links.active,
-.nav-menu > .nav-items > .nav-links :hover {
-  color: #1ebba3;
-} */
-
 @media screen and (max-width: 960px) {
   .nav-menu {
     display: flex;
