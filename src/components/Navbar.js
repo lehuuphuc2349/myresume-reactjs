@@ -18,14 +18,7 @@ function Navbar() {
   useEffect(() => {
     displayButton();
   }, []);
-  // const dowloadFile = () => {
-  //   const link = document.createElement("a");
-  //   link.href =
-  //     "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.talkwalker.com%2Fblog%2Fwhat-is-image-analysis&psig=AOvVaw20gI793Tqrmdp3xey_0r0w&ust=1615085757069000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjwhLjVmu8CFQAAAAAdAAAAABAI";
-  //   link.download = true;
-  //   document.body.appendChild(link);
-  //   console.log(link.href);
-  // };
+ 
   const dowloadFile = () => {
     const element = document.createElement("a");
     element.href = mycv;
